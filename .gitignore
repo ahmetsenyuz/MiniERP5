@@ -1,0 +1,26 @@
+# Ignore binaries and object files
+*.dll
+*.exe
+*.obj
+*.pdb
+
+# Ignore user-specific files
+*.user
+*.suo
+
+# Ignore NuGet packages
+packages/
+
+# Ignore IDE-specific files
+.idea/
+.vs/
+
+# Ignore build output
+bin/
+obj/
+
+# Ignore environment files
+.env
+
+# Ignore dependency directories
+node_modules/
